@@ -1,2 +1,3 @@
-# back.gostat.app
-Back end for go stat
+# gostat.org
+
+Back-end for gostat.org
